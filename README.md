@@ -1,9 +1,9 @@
 # Assignment_Basic_Stats_2_Set_1
 
-Topics: Descriptive Statistics and Probability
-Question1
+## Topics: Descriptive Statistics and Probability
 
-Look at the data given below. Plot the data, find the outliers and find out μ,σ,σ^2
+## Question 1
+## Look at the data given below. Plot the data, find the outliers and find out μ,σ,σ^2
 
 Name of company Measure X
 
